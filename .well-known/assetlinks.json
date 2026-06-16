@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.konvertor_valuta.twa",
+      "sha256_cert_fingerprints": ["FF:B5:F7:1B:C7:51:40:43:89:72:50:39:5E:B4:88:FE:AA:67:67:A3:BE:84:57:29:83:FB:CC:1F:50:96:3B:F9"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.isidorizvodi_cyber.twa",
+      "sha256_cert_fingerprints": ["8C:7A:F4:F3:15:FA:6C:B1:90:7F:68:01:E3:7F:16:BB:49:76:5F:82:1F:8E:E5:E4:33:D9:AD:68:07:41:5C:12"]
+    }
+  }
+]
